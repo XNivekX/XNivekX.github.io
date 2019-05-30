@@ -10,3 +10,8 @@ body{
     background-size: cover;
     
 }
+
+.header{
+    padding: 10px;
+    background-color: white;
+}
