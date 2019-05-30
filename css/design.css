@@ -3,5 +3,9 @@ body{
     background-image: url("../assets/bg.png");
     background-repeat: no-repeat;
     color: white;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
     background-size: cover;
+    
 }
