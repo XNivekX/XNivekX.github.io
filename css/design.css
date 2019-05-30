@@ -3,7 +3,5 @@ body{
     background-image: url("../assets/bg.png");
     background-repeat: no-repeat;
     color: white;
-    max-width: 100%;
-    height: auto;
-    width: auto/9;
+    background-size: cover;
 }
