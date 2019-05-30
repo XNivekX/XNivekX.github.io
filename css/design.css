@@ -14,11 +14,55 @@ body{
 }
 
 .header{
-    padding: 80px; /* some padding */
-    text-align: center; /* center the text */
-    background: #1abc9c; /* green background */
-    color: white; /* white text color */
+    padding: 10px;
+    text-align: center;
+    background: white;
+    color: black; 
 }
 
-/*1Updates*/
- 
+.header h1 {
+    font-size: 30px;
+    text-align: left;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.main {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+.downloadbtn {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 20px 20px;
+}
+
+.downloadbtn:hover {
+    background-color: gray;
+    color: white;
+}
