@@ -1,0 +1,44 @@
+.downloadBtn {
+    transition: 0.5s;
+    float: left;
+    background-color: lightgrey;
+    position: relative;
+    width: auto;
+    height: 220px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1% 1%;
+}
+
+.downloadBtn a {
+    transition: 0.5s;
+    position: relative;
+    top: 10px;
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.downloadBtn a:hover {
+    transition: 0.5s;
+    color: white;
+    background-color: gray;
+    border-color: gray;
+    font-size: 110%
+}
+
+.downloadBtn img {
+    transition: 0.5s;
+    width: 70%;
+    height: auto;
+}
+
+.downloadBtn p {
+    transition: 0.5s;
+    margin: 0;
+    margin-top: 10px;
+    position: relative;
+    top: 20px
+}

@@ -1,0 +1,22 @@
+h1 {
+    transition: 0.5s;
+    text-align: center;
+}
+
+p {
+    transition: 0.5s;
+    text-align: center;
+    font-size: 150%;
+    position: relative;
+    top: 300px;
+}
+
+body video {
+    transition: 0.5s;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, 0);
+}

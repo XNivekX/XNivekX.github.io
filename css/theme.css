@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    background-image: url("../assets/Images/bg.png");
+    background-position: center 10%;
+    -webkit-background-clip: center;
+    -moz-background-size: center;
+    -o-background-size: center;
+}
+
+.header {
+    transition: 0.5s;
+    background-color: white;;
+    padding: 2%;
+    text-align: left;
+    font-size: 300%;
+    margin: 0;
+}
+
+.header a {
+    transition: 0.5s;
+    padding: 0;
+    color: black;
+    text-decoration: none;
+}
+
+.navbar {
+    transition: 0.5s;
+    background-color: lightgray;
+    font-size: 120%;
+    overflow: hidden;
+}
+
+.navbar a {
+    transition: 0.5s; 
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 1% 1%;
+
+}
+
+.navbar a:hover {
+    transition: 0.5s;
+    background-color: rgb(6, 123, 226);
+    font-size: 125%;
+}
