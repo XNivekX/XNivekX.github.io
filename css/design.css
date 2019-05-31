@@ -116,6 +116,7 @@
         position: fixed;
         left: 50%;
         top: 40%;
+        margin-down: 5%;
         transform: translate(-50%, -50%);
         border: 10px solid white;
         border-radius: 10px;
