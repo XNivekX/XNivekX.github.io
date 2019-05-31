@@ -115,8 +115,7 @@
         height: 70px;
         position: fixed;
         left: 50%;
-        top: 40%;
-        margin-down: 5%;
+        top: 35%;
         transform: translate(-50%, -50%);
         border: 10px solid white;
         border-radius: 10px;
