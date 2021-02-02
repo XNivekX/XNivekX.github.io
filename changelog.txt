@@ -1,7 +1,7 @@
-Version v0.0.1
+<font color="#ffc400">Version v0.0.1</font>
   --Car can drift with Shift. (NO MOBILE SUPPORT FOR NOW)
   --Car has acceleration and brakes.
-Changelog v0.0.2 -Test
+<font color="#ffc400">Changelog v0.0.2 -Test</font>
   --attempt to fix Fps-unlocker speeding up car issue.
   --added drift marks.
   --Fixed drifting+accelerating back resulting in acceleration forward bug.
