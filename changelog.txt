@@ -1,1 +1,7 @@
-this is a changelog dedicated to sth else.
+Version v0.0.1
+  --Car can drift with Shift. (NO MOBILE SUPPORT FOR NOW)
+  --Car has acceleration and brakes.
+Changelog v0.0.2 -Test
+  --attempt to fix Fps-unlocker speeding up car issue.
+  --added drift marks.
+  --Fixed drifting+accelerating back resulting in acceleration forward bug.
