@@ -7,4 +7,4 @@
   --Fixed drifting+accelerating back resulting in acceleration forward bug.
 
 
-Have Fun! XD
+I hope good. Have fun XD!
